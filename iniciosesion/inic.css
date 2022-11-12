@@ -12,7 +12,8 @@
     text-align: center;
     box-sizing: content-box;
     border: transparent 5px;
-    margin: 200px 500px 200px;
+    padding-right: 580px;
+
 }
 
 :root{
@@ -21,11 +22,11 @@
     margin: 10px 2px 10px;
 }
 
-
 .id     {
     box-sizing: content-box;
     border:transparent  5px;
     color: blueviolet;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    flex-direction: column;
+    padding-left: 500px;
+    padding-top: 200px;
 }
