@@ -1,0 +1,31 @@
+.body2 {
+    background-image: url(https://i.ibb.co/VWG440Y/atr-s.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+.p  {
+    color:rgb(215, 125, 0);
+    text-decoration: solid;
+    text-align: center;
+    box-sizing: content-box;
+    border: transparent 5px;
+    margin: 200px 500px 200px;
+}
+
+:root{
+    box-sizing: content-box;
+    border: transparent 5px;
+    margin: 10px 2px 10px;
+}
+
+
+.id     {
+    box-sizing: content-box;
+    border:transparent  5px;
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    flex-direction: column;
+}

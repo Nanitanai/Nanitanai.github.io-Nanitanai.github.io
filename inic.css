@@ -1,4 +1,4 @@
-body            {
+.body   {
     background-image: url(https://i.ibb.co/VWG440Y/atr-s.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -6,15 +6,8 @@ body            {
     
 }
 
-form  {
-    color:rgb(215, 125, 0);
-    text-decoration: solid;
-    text-align: center;
-    box-sizing: content-box;
-    border: transparent 5px;
-    margin: 200px 500px 200px;
-}
-h1  {
+
+.text-center  {
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 50px;
@@ -32,7 +25,8 @@ h1  {
     padding-bottom: 150px;
     padding-top: 50px;
 }
-p   {
+
+.uwut {
     font-size: medium;
 }
 .titulo     {
