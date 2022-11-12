@@ -1,0 +1,36 @@
+body            {
+    background-image: url(https://i.ibb.co/VWG440Y/atr-s.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+.row  {
+     box-sizing: content-box;
+     border: transparent 50px;
+     padding: 4%;
+     gap: 1rem;
+     justify-content: space-around;
+     display: flex;
+
+}
+.card {
+    text-align: center;
+    color: blueviolet;
+}
+.card-img-top {
+    padding: 4%;
+    height: 300px;
+    justify-content: center;
+}
+
+.aya {
+    justify-items: center;
+}
+h1 {
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 4%;
+}
